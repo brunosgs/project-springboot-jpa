@@ -9,3 +9,4 @@ Nesse repositório você encontra um dos projetos do curso [Java COMPLETO Progra
 - [Spring Tools 4](https://spring.io/tools)
 - [PostgreSQL 13.3](https://www.postgresql.org/download/windows/)
 - [Heroku](https://www.heroku.com/)
+- [Postman](https://www.postman.com/downloads/)
